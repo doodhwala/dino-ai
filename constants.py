@@ -1,3 +1,4 @@
 # Path to chromedriver
+# Has been added to .gitignore and so you have to download the same before you run this
 chromedriver_path = './chromedriver'
-img_path = 'temp/'
+ss_path = 'temp/screenshot.png'
